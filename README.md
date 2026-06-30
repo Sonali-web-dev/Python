@@ -129,31 +129,6 @@ E --> I[Key Value Pair]
 
 ---
 
-# ⚙️ Installation & Setup
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/Python-Repository.git
-```
-
-### Navigate into Project
-
-```bash
-cd Python-Repository
-```
-
-### Run Python File
-
-```bash
-python filename.py
-```
-
----
-
----
-
-
 Beginner : Python Syntax
         : Basic Programs
 
